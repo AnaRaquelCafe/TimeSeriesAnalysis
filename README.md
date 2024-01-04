@@ -6,6 +6,6 @@ No mundo da ciência de dados, existem algoritmos de série temporal que podem p
 
 Neste artigo utilizando este repositório, vou explicar como fazer previsões comparando três tipos de algoritmos: Prophet do Facebook (Meta), modelo ARIMA e o deep learning LSTM (Long Short Term Memory). Para este exemplo, estou usando valores de ações da empresa Disney, vamos conferir! Fiz a análise e as previsões apenas usando python e colab do Google.
 
-Link do artigo: 
+Link do artigo: https://medium.com/@anaraquel.fiap/predicting-stock-values-with-machine-learning-and-deep-learning-algorithms-5eb028892888
 
 ![alice](https://github.com/AnaRaquelCafe/TimeSeriesAnalysis/assets/46449538/872fd846-3cfb-4b16-a827-3f4332dae019)
